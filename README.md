@@ -13,8 +13,6 @@ Demo
 Requirements
 Installation
 Usage
-Contributing
-License
 Demo
 Sample Screenshot
 
@@ -71,17 +69,7 @@ Displays the password in a read-only entry box within the GUI.
 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Steps to Contribute:
-Fork the repository.
-Create your feature branch:
-bash
-Copy code
-git checkout -b feature/AmazingFeature
-Commit your changes:
-bash
-Copy code
-git commit -m 'Add some AmazingFeature'
-Push to the branch:
+
 bash
 Copy code
 git push origin feature/AmazingFeature
